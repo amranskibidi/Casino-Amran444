@@ -18,7 +18,7 @@ export default function Page() {
 
   const gp = { bal, deduct, add, toast };
 
-  const handleWithdraw = (amt) => {
+  const handleWithdraw = (amt: any) => {
     deduct(amt);
     toast(`💸 WD ${import('@/lib/casino').then(m=>m.fmt(amt))} berhasil dikirim ke GoPay!`, "info");
   };
