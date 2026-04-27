@@ -7,8 +7,8 @@
 
 ## 🧠 About Me
 
-* 🌱 Currently learning: **Html, Css, JavaScript, React, Next.js**
-* 🔧 Focus: **fullstack**
+* 🌱 Currently learning: **JavaScript, React, Next.js, Python**
+* 🔧 Focus: **Frontend Development**
 * 🎯 Goal: Become a **Freelance Fullstack Developer**
 * ⚡ Fun fact: I build, break, and rebuild code until it works perfectly
 
@@ -19,10 +19,18 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ---
 
+## 📌 Featured Projects
+
+
+
+* 🌐 **Landing Page Website**
+  Responsive and modern landing page design with clean layout
 
 ---
 
@@ -36,7 +44,7 @@
 
 ## 🌍 Connect With Me
 
-* 📧 Email: [amrannihbos2@gmail.com](mailto:your-email@example.com)
+* 📧 Email: **[amrannihbos2@gmail.com](mailto:amrannihbos2@gmail.com)**
 * 🌐 Portfolio: coming soon...
 * 💼 LinkedIn: coming soon...
 
