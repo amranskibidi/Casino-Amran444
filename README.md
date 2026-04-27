@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 👋 Hi, I'm Amran
 
-## Getting Started
+💻 **Frontend Developer in Progress**
+🚀 Passionate about building modern and responsive web applications
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🧠 About Me
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+* 🌱 Currently learning: **Html, Css, JavaScript, React, Next.js**
+* 🔧 Focus: **fullstack**
+* 🎯 Goal: Become a **Freelance Fullstack Developer**
+* ⚡ Fun fact: I build, break, and rebuild code until it works perfectly
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Tech Stack
 
-## Learn More
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📊 GitHub Stats
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_LO\&show_icons=true\&theme=tokyonight)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LO\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌍 Connect With Me
+
+* 📧 Email: [amrannihbos2@gmail.com](mailto:your-email@example.com)
+* 🌐 Portfolio: coming soon...
+* 💼 LinkedIn: coming soon...
+
+---
+
+## 💡 Quote
+
+> "Consistency beats talent when talent doesn’t stay consistent."
