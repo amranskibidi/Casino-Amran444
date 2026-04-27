@@ -36,9 +36,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_LO\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amranskibidi_LO\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LO\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amranskibidi_LO\&layout=compact\&theme=tokyonight)
 
 ---
 
